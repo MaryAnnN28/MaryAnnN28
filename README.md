@@ -7,7 +7,6 @@ My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm f
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux 
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio & refactoring dashboard proj
 <br/>
-<br/>
 
 ### **Technologies**
 **Ruby** • **Rails** • **JavaScript** • **React** • **CSS** • **HTML** • **PostgreSQL** • **Bootstrap** • **Material-UI** 
