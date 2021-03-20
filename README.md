@@ -10,7 +10,7 @@ My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm f
 <br/>
 <br/>
 I come from 15 yrs of hospitality sales & marketing experience as a leader, excited to elevate my customer service, sales and tech skills to new heights. 
-<br/>
+<br/><br/>
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio. <br />
 - I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby!
