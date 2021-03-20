@@ -12,7 +12,7 @@ I come from 15 yrs of hospitality sales & marketing experience as a leader, exci
 <br/>
 
 ### **Technologies**
-**Ruby** • **Rails** • **JavaScript** • **React** • **CSS** • **HTML** • **PostgreSQL** • **Bootstrap** • **Material-UI** 
+**JavaScript** | **React** | **Redux** | **Ruby** | **Rails** | **CSS** | **HTML** | **PostgreSQL** | **Bootstrap** | **Material-UI** | **Adobe XD** | **Adobe Photoshop**
 <br /><br/>
 
 ### **Connect With Me:**
