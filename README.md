@@ -4,8 +4,8 @@
 • [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) &nbsp; 
 • [**Medium Blog**](https://maryann-navarrete.medium.com/) &nbsp; 
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
-
 <br/>
+
 My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm from the Washington, DC metro area and recently graduated from a full-immersive software engineering bootcamp in March 2021. 
 <br/>
 <br/>
