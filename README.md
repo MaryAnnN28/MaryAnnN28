@@ -13,10 +13,10 @@ My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm f
 <br /><br/>
 
 ### **Connect With Me:**
-• [**Medium Blog**](https://maryann-navarrete.medium.com/) <br />
-• [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) <br />
-• [**Twitter**](https://twitter.com/MaryAnnN28) <br />
 • [**Porfolio**](http://www.maryannnavarrete.com) <br />
+• [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) <br />
+• [**Medium Blog**](https://maryann-navarrete.medium.com/) <br />
+• [**Twitter**](https://twitter.com/MaryAnnN28) <br />
 
 
 
