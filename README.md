@@ -5,7 +5,7 @@
 My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm from the Washington, DC metro area and recently graduated from a full-immersive software engineering bootcamp in March 2021. 
 <br/>
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux 
-- 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio & refactoring dashboard proj
+- 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio.
 <br/>
 
 ### **Technologies**
@@ -16,7 +16,7 @@ My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm f
 • [**Medium Blog**](https://maryann-navarrete.medium.com/) <br />
 • [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) <br />
 • [**Twitter**](https://twitter.com/MaryAnnN28) <br />
-• **Porfolio - Coming Soon!** <br />
+• [**Porfolio**](http://www.maryannnavarrete.com) <br />
 
 
 
