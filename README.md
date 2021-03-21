@@ -6,10 +6,10 @@
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
 <br/>
 
-My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm from the Washington, DC metro area and recently graduated from a full-immersive software engineering bootcamp in March 2021. 
+My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm from the Washington, DC metro area and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. 
 <br/>
 <br/>
-I come from 15 yrs of hospitality sales & marketing experience as a leader, excited to elevate my customer service, sales and tech skills to new heights. 
+I come from 15 yrs of hospitality sales & marketing experience as a leader, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. 
 <br/><br/>
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio. <br />
