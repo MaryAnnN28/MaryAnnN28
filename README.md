@@ -14,7 +14,7 @@ I come from 15 yrs of hospitality sales & marketing experience as a leader, and 
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio. <br />
 - 🥳 &nbsp; I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby! <br />
-- 🏆 &nbsp; Participated in my first Hackathon, and won Best Implementation and Potential for Growth Award! [**Planet Warrrior**](https://planetwarriors.netlify.app/)
+- 🏆 &nbsp; Participated in first Hackathon, & won Best Implementation and Potential for Growth Award! [**Planet Warrrior**](https://planetwarriors.netlify.app/)
 <br/>
 
 ### **Technologies**
