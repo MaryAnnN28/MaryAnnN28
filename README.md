@@ -13,7 +13,8 @@ I come from 15 yrs of hospitality sales & marketing experience as a leader, and 
 <br/><br/>
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio. <br />
-- I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby!
+- 🥳 I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby! <br />
+- 🏆 Recently, I participated in... my first Hackathon, and we won Best Implementation and Potential for Growth Award!
 <br/>
 
 ### **Technologies**
