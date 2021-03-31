@@ -10,7 +10,7 @@
 My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm from the Washington, DC metro area and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. 
 <br/>
 <br/>
-I come from 15 yrs of hospitality sales & marketing experience as a leader, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. 
+I come from 15 yrs of sales & marketing leadership experience in the hospitality & travel industry, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. I love building solution-driven software can help people gain more effectiveness and efficiency. 
 <br/><br/>
 - 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
 - 👩🏻‍💻 &nbsp; I’m currently working on... my portfolio, refactoring NavCRM Dashboard project <br />
