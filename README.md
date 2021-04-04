@@ -1,4 +1,4 @@
-## ✨ Hello there! Welcome to my GitHub! 👋
+## ✨ Hello there, welcome to my GitHub! ✨
 
 ![maryann-banner](https://media-exp1.licdn.com/dms/image/C5616AQG2wxYdn13yNQ/profile-displaybackgroundimage-shrink_350_1400/0/1617069982216?e=1623283200&v=beta&t=6o_eIXNgef1_9mHFr9L0W3Rk6M6d7RCQxRWQG9aWC5Q)
 
