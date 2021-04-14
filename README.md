@@ -31,7 +31,6 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Bootstrap
 •  Material-UI
 •  Adobe XD
-•  Adobe Photoshop
 <br /><br/>
 
 
