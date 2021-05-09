@@ -22,7 +22,6 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 ### **Technologies**
 •  JavaScript
 •  React 
-•  Redux
 •  Ruby
 •  Rails
 •  CSS
