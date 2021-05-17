@@ -2,7 +2,7 @@
 
 ![maryann-banner](https://media-exp1.licdn.com/dms/image/C5616AQG2wxYdn13yNQ/profile-displaybackgroundimage-shrink_350_1400/0/1617069982216?e=1623283200&v=beta&t=6o_eIXNgef1_9mHFr9L0W3Rk6M6d7RCQxRWQG9aWC5Q)
 
-**Connect with me through my** ⤳ • [**Porfolio**](http://www.maryannnavarrete.com) &nbsp; 
+**Connect with me through my** ⤳ • [**Porfolio**](http://www.maryannnav.com) &nbsp; 
 • [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) &nbsp; 
 • [**Medium Blog**](https://maryann-navarrete.medium.com/) &nbsp; 
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
