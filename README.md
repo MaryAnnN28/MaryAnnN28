@@ -30,6 +30,8 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Adobe XD
 <br /><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryannn28&layout=compact)](https://github.com/maryannn28/github-readme-stats)
+
 
 
 
