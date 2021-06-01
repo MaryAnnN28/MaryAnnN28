@@ -32,6 +32,9 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryannn28&layout=compact)](https://github.com/maryannn28/github-readme-stats)
 
+![MaryAnnN28's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryannn28&show_icons=true&theme=radical)
+
+
 
 
 
