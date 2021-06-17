@@ -12,7 +12,7 @@ My name is **Mary Ann Navarrete** and I am a full-stack software engineer. I'm f
 <br/>
 I come from 15 yrs of sales & marketing leadership experience in the hospitality & travel industry, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. I love building solution-driven software can help people gain more effectiveness and efficiency, as well as making a positive impact in the community. 
 <br/><br/>
-- 🌱 &nbsp; I’m currently learning... React Hooks & Redux <br />
+- 🌱 &nbsp; I’m currently learning... Advanced React & Redux <br />
 - 🥳 &nbsp; I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby! <br />
 - 🏆 &nbsp; Participated in first Hackathon, & won Best Implementation and Potential for Growth Award! [**Planet Warrrior**](https://planetwarriors.netlify.app/)
 <br/>
@@ -24,6 +24,8 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Rails
 •  CSS
 •  HTML
+•  WordPress
+•  PHP
 •  PostgreSQL
 •  Bootstrap
 •  Material-UI
