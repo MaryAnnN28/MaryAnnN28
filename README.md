@@ -24,13 +24,13 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Ruby
 •  Ruby on Rails
 •  PHP
+•  SQL
 •  CSS
 •  HTML
 •  WordPress
-•  PostgreSQL
 •  Bootstrap
 •  Material-UI
-•  Adobe XD
+•  AdobeXD
 <br /><br/>
 ![MaryAnnN28's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryannn28&show_icons=true&theme=tokyonight)
 
