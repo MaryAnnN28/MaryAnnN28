@@ -20,12 +20,13 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 ### **Technologies**
 •  JavaScript
 •  React 
+•  React Native
 •  Ruby
-•  Rails
+•  Ruby on Rails
+•  PHP
 •  CSS
 •  HTML
 •  WordPress
-•  PHP
 •  PostgreSQL
 •  Bootstrap
 •  Material-UI
