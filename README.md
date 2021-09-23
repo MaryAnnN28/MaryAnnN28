@@ -7,10 +7,10 @@
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
 <br/>
 
-My name is **Mary Ann Navarrete** and I am a Project Manager/Full Stack Web Developer in the Washington, D.C. Metro Area. 
+My name is **Mary Ann Navarrete** and I am a Full Stack Software Developer & Project Manager in the Washington, D.C. Metro Area. 
 <br/>
 <br/>
-I come from 15 yrs of sales & marketing leadership experience in the hospitality & travel industry, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. I love building solution-driven software can help people gain more effectiveness and efficiency, as well as making a positive impact in the community. 
+I come from 15 yrs of sales & marketing leadership experience in the hospitality & travel industry, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. I love building solution-oriented applications and websites that help people gain more effectiveness and efficiency, as well as making a positive impact in the community. 
 <br/><br/>
 - 🌱 &nbsp; I’m currently learning... Redux, NodeJS<br />
 - 🥳 &nbsp; I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶  Toby! <br />
@@ -21,6 +21,7 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  JavaScript
 •  React 
 •  React Native
+•  Redux
 •  Ruby
 •  Ruby on Rails
 •  PHP
@@ -28,9 +29,7 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  CSS
 •  HTML
 •  WordPress
-•  Bootstrap
 •  Material-UI
-•  AdobeXD
 <br /><br/>
 ![MaryAnnN28's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryannn28&show_icons=true&theme=tokyonight)
 
