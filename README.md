@@ -20,17 +20,19 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 ### **Technologies**
 •  JavaScript
 •  React 
-•  React Native
 •  Redux
+•  Node.js
+•  Express
 •  Ruby
 •  Ruby on Rails
 •  PHP
 •  SQL
 •  CSS
 •  HTML
+•  Strapi
+•  MongoDB
 •  WordPress
 •  Material-UI
-•  Strapi
 <br /><br/>
 ![MaryAnnN28's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryannn28&show_icons=true&theme=tokyonight)
 
