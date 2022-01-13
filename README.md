@@ -1,7 +1,7 @@
-## ✨ Hello there, welcome to my GitHub! ✨
+## Hello there, welcome to my GitHub!
 
 
-**Connect with me through my** ⤳ • [**Porfolio**](http://www.maryannnav.com) &nbsp; 
+**Connect with me through my** ⤳ • [**Porfolio**](http://www.maryannnavarrete.com) &nbsp; 
 • [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) &nbsp; 
 • [**Medium Blog**](https://maryann-navarrete.medium.com/) &nbsp; 
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
@@ -12,7 +12,7 @@ My name is **Mary Ann Navarrete** and I am a Full Stack Software Developer & Pro
 <br/>
 I come from 15 yrs of sales & marketing leadership experience in the hospitality & travel industry, and am excited to elevate my customer service, sales and leadership skills, along with my programming knowledge to new heights. I love building solution-oriented applications and websites that help people gain more effectiveness and efficiency, as well as making a positive impact in the community. 
 <br/><br/>
-🌱 &nbsp; Currently learning... Redux, NodeJS/Express, MongoDB, Stripe<br />
+🌱 &nbsp; Currently learning NodeJS/Express, Stripe<br />
 🥳 &nbsp; I enjoy... watching 🏀, playing 🏌🏻‍♀️, reading 📚, and playing with my 🐶 Toby! <br />
 🏆 &nbsp; Participated in first Hackathon, & won Best Implementation and Potential for Growth Award! [**Planet Warrrior**](https://planetwarriors.netlify.app/)
 <br/>
