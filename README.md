@@ -25,7 +25,6 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Express
 •  Ruby
 •  Ruby on Rails
-•  PHP
 •  SQL
 •  CSS
 •  HTML
