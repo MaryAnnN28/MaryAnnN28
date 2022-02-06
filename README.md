@@ -23,16 +23,17 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 •  Node.js
 •  Next.js
 •  Express
-•  Ruby
-•  Ruby on Rails
-•  SQL
+•  Strapi
+•  MongoDB
 •  JavaScript
 •  CSS
 •  HTML
-•  Strapi
-•  MongoDB
-•  WordPress
 •  Material-UI
+•  Ruby
+•  Ruby on Rails
+•  SQL
+•  WordPress
+
 <br /><br/>
 ![MaryAnnN28's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryannn28&show_icons=true&theme=tokyonight)
 
