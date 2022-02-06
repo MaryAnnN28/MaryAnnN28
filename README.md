@@ -1,7 +1,7 @@
 ## Hello there, welcome to my GitHub!
 
 
-**Connect with me through my** ⤳ • [**Porfolio**](http://www.maryannnavarrete.com) &nbsp; 
+**Connect with me through my** • [**Porfolio**](http://www.maryannnavarrete.com) &nbsp; 
 • [**LinkedIn**](https://www.linkedin.com/in/maryannnavarrete/) &nbsp; 
 • [**Medium Blog**](https://maryann-navarrete.medium.com/) &nbsp; 
 • [**Twitter**](https://twitter.com/MaryAnnN28) &nbsp; 
