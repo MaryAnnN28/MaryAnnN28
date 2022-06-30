@@ -20,12 +20,12 @@ I come from 15 yrs of sales & marketing leadership experience in the hospitality
 ### **Technologies**
 •  React 
 •  Redux
+•  JavaScript
+•  Typescript
 •  Node.js
-•  Next.js
 •  Express
 •  Strapi
 •  MongoDB
-•  JavaScript
 •  CSS
 •  HTML
 •  Material-UI
